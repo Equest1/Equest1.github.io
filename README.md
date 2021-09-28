@@ -1,10 +1,5 @@
 # Home
 
-This is just dummy training for my another project.
+This is Home Github Pages for Equest1.
 
-To do list:
-1. Construct Information
-2. Memory Information
-3. Memory Recommendation and Differences.
-4. CG and Audio?
-5. Misc (serum thingy, babel...)# eques.github.io
+I will make more project and will show it here.
